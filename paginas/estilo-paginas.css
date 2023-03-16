@@ -1,0 +1,22 @@
+p{
+    text-align: justify;
+    width: 1000px;
+}
+
+h1{
+    width: 1000px;
+}
+
+img{
+    width: 1000px;
+    height: 500px;
+}
+
+i{
+    color: black;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}

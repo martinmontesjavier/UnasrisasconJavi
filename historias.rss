@@ -1,0 +1,26 @@
+<rss version="2.0">
+  <channel>
+    <title>Historias recientes</title>
+    <link>https://javiermartinmontesrss.000webhostapp.com/</link>
+    <description>Los ultimos articulos publicados en nuestro sitio web</description>
+
+    <item>
+      <title>Apple recrudece la guerra contra Google con un arma sorprendente: su propio buscador</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/paginas/pagina1.html</link>
+      <description>Apple vs Google</description>
+    </item>
+
+    <item>
+      <title>Microsoft sufre una gran caida: Outlook, Teams y Office no funcionan</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/paginas/pagina2.html</link>
+      <description>Microsoft cae</description>
+    </item>
+
+    <item>
+      <title>He vuelto a usar Ubuntu tras cuatro años y estas han sido mis impresiones</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/paginas/pagina3.html</link>
+      <description>La pasion con Ubuntu</description>
+    </item>
+
+  </channel>
+</rss>

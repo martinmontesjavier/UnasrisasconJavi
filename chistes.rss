@@ -1,0 +1,26 @@
+<rss version="2.0">
+  <channel>
+    <title>Chistes recientes</title>
+    <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+    <description>Los ultimos chistes publicados en nuestro sitio web</description>
+
+    <item>
+      <title>Chiste 1</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <description>¿Como se llama un boomerang que no vuelve? Palo.</description>
+    </item>
+
+    <item>
+      <title>Chiste 2</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <description>— Soy celiaca — Encantado, yo Antoniaco.</description>
+    </item>
+
+    <item>
+      <title>Chiste 3</title>
+      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <description>¿Que le dice la foca a su madre? I love you, mother foca.</description>
+    </item>
+
+  </channel>
+</rss>
