@@ -7,18 +7,21 @@
     <item>
       <title>Chiste 1</title>
       <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/easy.mp3" type="audio/mp3"/>
       <description>¿Como se llama un boomerang que no vuelve? Palo.</description>
     </item>
 
     <item>
       <title>Chiste 2</title>
       <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/miracle.mp3" type="audio/mp3"/>
       <description>— Soy celiaca — Encantado, yo Antoniaco.</description>
     </item>
 
     <item>
       <title>Chiste 3</title>
       <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/risk.mp3" type="audio/mp3"/>
       <description>¿Que le dice la foca a su madre? I love you, mother foca.</description>
     </item>
 
