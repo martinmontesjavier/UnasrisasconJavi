@@ -1,27 +1,27 @@
 <rss version="2.0">
   <channel>
     <title>Chistes recientes</title>
-    <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
+    <link>https://martinmontesjavier.github.io/UnasrisasconJavi/index.html</link>
     <description>Los ultimos chistes publicados en nuestro sitio web</description>
 
     <item>
       <title>Chiste 1</title>
-      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
-      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/easy.mp3" length="5311425" type="audio/mp3"/>
+      <link>https://martinmontesjavier.github.io/UnasrisasconJavi/index.html</link>
+      <enclosure url="https://martinmontesjavier.github.io/UnasrisasconJavi/index.html/easy.mp3" length="5311425" type="audio/mp3"/>
       <description>¿Como se llama un boomerang que no vuelve? Palo.</description>
     </item>
 
     <item>
       <title>Chiste 2</title>
-      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
-      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/miracle.mp3" length="2450912 " type="audio/mp3"/>
+      <link>https://martinmontesjavier.github.io/UnasrisasconJavi/index.html</link>
+      <enclosure url="https://martinmontesjavier.github.io/UnasrisasconJavi/index.html/miracle.mp3" length="2450912 " type="audio/mp3"/>
       <description>— Soy celiaca — Encantado, yo Antoniaco.</description>
     </item>
 
     <item>
       <title>Chiste 3</title>
-      <link>https://javiermartinmontesrss.000webhostapp.com/index.html</link>
-      <enclosure url="javiermartinmontesrss.000webhostapp.com/index.html/risk.mp3" length="2321345" type="audio/mp3"/>
+      <link>https://martinmontesjavier.github.io/UnasrisasconJavi/index.html</link>
+      <enclosure url="https://martinmontesjavier.github.io/UnasrisasconJavi/index.html/risk.mp3" length="2321345" type="audio/mp3"/>
       <description>¿Que le dice la foca a su madre? I love you, mother foca.</description>
     </item>
 
